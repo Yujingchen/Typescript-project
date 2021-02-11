@@ -1,4 +1,4 @@
-
+// Props pass to child componentment must be exact same number of props and correct value type
 interface ChildProps {
     color: string;
     onClick: () => void;
